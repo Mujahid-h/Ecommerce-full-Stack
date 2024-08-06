@@ -78,7 +78,7 @@ const Login = () => {
                 navigate("/forgot-password");
               }}
             >
-              FORGOT PASSWORD
+              TRY ANOTHER METHOD
             </button>
           </div>
 
